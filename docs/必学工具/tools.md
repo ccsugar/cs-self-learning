@@ -4,7 +4,7 @@
 
 - [Sci-Hub](https://sci-hub.se/): Elbakyan 女神向你挥手，旨在打破知识壁垒的革命性网站。
 - [Library Genesis](http://libgen.is/): 电子书下载网站。
-- [Z-library](https://zlibrary-global.se/): 电子书下载网站（在 [Tor](https://www.torproject.org/) 下运行较佳，[链接](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)）。
+- [Z-library](https://z-library.rs/): 电子书下载网站（在 [Tor](https://www.torproject.org/) 下运行较佳，[链接](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)）。
 - [Z-ePub](https://z-epub.com/): ePub 电子书下载网站。
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 - [MagazineLib](https://magazinelib.com/): PDF 电子杂志下载网站。
@@ -32,6 +32,7 @@
 
 - [sqlfiddle](http://www.sqlfiddle.com/): 一个简易的在线 SQL Playground。
 - [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)：在线练习 sql 语句。
+- [sqlable](https://sqlable.com)：一个 SQL 工具网站（格式化器、验证器、生成器，SQL Playground）。
 - [godbolt](https://godbolt.org/): 非常方便的编译器探索工具。你可以写一段 C/C++ 代码，选择一款编译器，然后便可以观察生成的具体汇编代码。
 - [explainshell](https://explainshell.com/): 你是否曾为一段 shell 代码的具体含义感到困扰？manpage 看半天还是不明所以？试试这个网站！
 - [regex101](https://regex101.com/): 正则表达式调试网站，支持各种编程语言的匹配标准。
